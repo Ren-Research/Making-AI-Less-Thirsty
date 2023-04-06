@@ -1,0 +1,1 @@
+EIA energy data from https://www.eia.gov/opendata/, please refer to the notebook `Step1_Download_EIA_data.ipynb` for more details. You may need a valid api key from https://www.eia.gov/opendata/register.php 
