@@ -48,7 +48,14 @@ def fix_nan_value(arr):
     return interpolated_arr
 
 def detect_missing_values(time_str_list):
-    
+    '''
+    Detect missing hours from the time string list
+    Args:
+        time_str_list : input hour list
+    Return:
+        missed_list   : detected missed hour slot 
+    '''
+
     def convert_utc_timehour(time_str):
         # Convert to timestamp in hour, the input is the UTC time
         return int(round(datetime.strptime(time_str, '%Y-%m-%dT%H').replace(tzinfo=timezone.utc).timestamp()/3600))
