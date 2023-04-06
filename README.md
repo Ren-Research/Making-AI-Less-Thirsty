@@ -4,7 +4,7 @@
 
 Pengfei Li, Jianyi Yang, Mohammad A. Islam and Shaolei Ren*
 
-*corresponding author
+(*corresponding author)
 
 **Note**
 
