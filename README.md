@@ -4,9 +4,32 @@
 
 Pengfei Li, Jianyi Yang, Mohammad A. Islam and Shaolei Ren*
 
+*corresponding author
+
 **Note**
 
-This is the official implementation of the arxiv paper [[PDF](https://github.com/Ren-Research/Making-AI-Less-Thirsty)], the code will be avaliable soon.
+This is the official implementation of the arxiv paper [[PDF](https://github.com/Ren-Research/Making-AI-Less-Thirsty)]
 
+## REQUIREMENTS
 
+python>=3.6
 
+## Installation
+* Clone this repo:
+```bash
+git clone https://github.com/Ren-Research/Making-AI-Less-Thirsty.git
+cd Making-AI-Less-Thirsty
+```
+* Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+## Citation
+```
+TBD
+```
+
+## Acknowledgement
+* Energy data from [EIA Opendata Project](https://www.eia.gov/opendata/).
+* Weather data from [Iowa Environmental Mesonet](https://mesonet.agron.iastate.edu/).
