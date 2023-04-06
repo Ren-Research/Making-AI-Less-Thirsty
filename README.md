@@ -10,9 +10,9 @@ Pengfei Li, Jianyi Yang, Mohammad A. Islam and Shaolei Ren*
 
 This is the official implementation of the arxiv paper [[PDF](https://github.com/Ren-Research/Making-AI-Less-Thirsty)]
 
-## REQUIREMENTS
+## Requirements
 
-python>=3.6
+* python>=3.6
 
 ## Installation
 * Clone this repo:
