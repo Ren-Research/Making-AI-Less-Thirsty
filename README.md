@@ -2,7 +2,7 @@
 
 [![MIT licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE.md)
 
-Pengfei Li, Jianyi Yang, Mohammad A. Islam and Shaolei Ren*
+[Pengfei Li](https://www.cs.ucr.edu/~pli081/), [Jianyi Yang](https://jyang-ai.github.io/), [Mohammad A. Islam](https://crystal.uta.edu/~mislam/) and [Shaolei Ren](https://intra.ece.ucr.edu/~sren/)*
 
 (*corresponding author)
 
