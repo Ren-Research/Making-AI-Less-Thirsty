@@ -27,7 +27,12 @@ pip install -r requirements.txt
 
 ## Citation
 ```
-TBD
+@article{ren2023water,
+  title={Making AI Less "Thirsty": Uncovering and Addressing the Secret Water Footprint of AI Models},
+  author={Li, Pengfei and Yang, Jianyi and Islam, Mohammad A. and Ren, Shaolei},
+  journal={arXiv preprint arXiv:2304.03271},
+  year={2023}
+}
 ```
 
 ## Acknowledgement
