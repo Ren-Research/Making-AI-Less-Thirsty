@@ -25,6 +25,16 @@ cd Making-AI-Less-Thirsty
 pip install -r requirements.txt
 ```
 
+## Results
+
+- Hourly carbon efficiency and on-site WUE for the first week of August 2022.
+
+![snapshot](./figures/snapshot.png)
+
+- Estimated water and carbon footprints of training LaMDA with different starting months in 2022.
+
+![footprint](./figures/footprint.png)
+
 ## Citation
 ```
 @article{ren2023water,
@@ -34,15 +44,6 @@ pip install -r requirements.txt
   year={2023}
 }
 ```
-## Results
-
-- Hourly carbon efficiency and on-site WUE for the first week of August 2022.
-
-![snapshot](./figures/snapshot.jpg)
-
-- Estimated water and carbon footprints of training LaMDA with different starting months in 2022.
-
-![footprint](./figures/footprint.jpg)
 
 ## Acknowledgement
 * Energy data from [EIA Opendata Project](https://www.eia.gov/opendata/).
