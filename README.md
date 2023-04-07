@@ -1,6 +1,6 @@
-# Making AI Less ''Thirsty'': Uncovering and Addressing the Secret Water Footprint of AI [[PDF](http://arxiv.org/abs/2304.03271)]
+# Making AI Less ''Thirsty'': Uncovering and Addressing the Secret Water Footprint of AI  
 
-[![MIT licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE.md)
+[![MIT licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE.md)  [![arxiv](http://img.shields.io/badge/cs.LG-arXiv%3A2304.03271-B31B1B.svg)](http://arxiv.org/abs/2304.03271)
 
 [Pengfei Li](https://www.cs.ucr.edu/~pli081/), [Jianyi Yang](https://jyang-ai.github.io/), [Mohammad A. Islam](https://crystal.uta.edu/~mislam/) and [Shaolei Ren](https://intra.ece.ucr.edu/~sren/)*
 
